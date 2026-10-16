@@ -1,0 +1,10 @@
+{
+  "name": "AV Switcher",
+  "author": "DeckyLoader workspace",
+  "flags": ["debug", "root"],
+  "api_version": 1,
+  "publish": {
+    "tags": ["display", "audio", "microphone", "network", "wake-on-lan", "utility"],
+    "description": "Switch AV devices and configure Wake-on-LAN from Gaming Mode."
+  }
+}

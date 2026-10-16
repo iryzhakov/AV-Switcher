@@ -1,0 +1,9 @@
+node_modules/
+dist/
+*.zip
+__pycache__/
+.pnpm-store/
+.DS_Store
+Steamcord-AV/
+.env
+*.env
