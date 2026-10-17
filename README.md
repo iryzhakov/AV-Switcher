@@ -1,5 +1,7 @@
 # AV Switcher for Decky Loader
 
+**Русский** | [English](README.en.md)
+
 Версия 0.6.0.
 
 Переключает и показывает устройства в Gaming Mode:
